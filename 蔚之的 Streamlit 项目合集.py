@@ -21,7 +21,7 @@ col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     st.markdown("**💬 知乎**")
-    st.markdown("[蔚之（编程小白版）](https://www.zhihu.com/people/your-zhihu-link)")
+    st.markdown("[蔚之（编程小白版）](https://www.zhihu.com/people/--60-78-49-55)")
 with col2:
     st.markdown("**☁️ GitHub**")
     st.markdown("[🌟 蔚之的项目合集](https://github.com/xuelengmei/streamlit-projects)")
