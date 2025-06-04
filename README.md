@@ -14,11 +14,11 @@
 
 提醒
 
-#🛠 技术栈
+## 🛠 技术关键词  
 Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
 
 
-#📬 联系我 / 查看更多：
+## 📬 联系我 
 
 💬 知乎：：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)
 
