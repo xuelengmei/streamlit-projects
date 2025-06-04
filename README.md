@@ -23,7 +23,10 @@ Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
 
 🎀 小红书（注册中，敬请期待）
 
-☁️ GitHub：[xuelengmei](https://github.com/xuelengmei)
+☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects))
+
+☁️ Streamlit Cloud[🌟 蔚之的 Streamlit 项目合集](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)
+
 
 ##🐣 一句话感言
 从「0」开始，每天一点点，就是「1」啦。
