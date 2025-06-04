@@ -14,18 +14,18 @@
 
 提醒
 
-🛠 技术栈
+##🛠 技术栈
+Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
 
-Python · Streamlit · Pandas · GitHub · Markdown · 女生学编程 · 项目驱动学习
 
-📬 联系我 / 查看更多：
+##📬 联系我 / 查看更多：
 
-📝 知乎：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)
+💬 知乎：：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)
 
 🎀 小红书（注册中，敬请期待）
 
 ☁️ GitHub：[xuelengmei](https://github.com/xuelengmei)
 
-🐣 一句话感言
+##🐣 一句话感言
 从「0」开始，每天一点点，就是「1」啦。
 
