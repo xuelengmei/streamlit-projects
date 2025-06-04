@@ -1,9 +1,8 @@
-🌟 蔚之的 Streamlit 项目合集
-“从0到1，女生自学编程的实践记录。”
+# 🌟 蔚之的 Streamlit 项目合集
 
 👋 你好呀，我是蔚之，正在用 Python + Streamlit 一边学一边做小工具～这是我的项目合集页，希望你也能从中找到启发！
 
-🧭 项目目录
+## 🧭 项目目录
  | 项目名称 | 在线体验 | GitHub源码 | 简介 |
  |----------|-----------|-------------|------|
  |✨ 星座生日助手  |	   [体验](https://star-sign-apper-avt8eedi7zvixprfee3ujz.streamlit.app/)	     |    [源码](https://github.com/xuelengmei/star-sign-helper)      |   输入生日或星座，查看对应星座信息、匹配结果
