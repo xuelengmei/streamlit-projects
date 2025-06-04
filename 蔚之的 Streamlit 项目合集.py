@@ -17,7 +17,7 @@ st.markdown("""
 
 
 st.markdown("""
-|联系我|
+|------------------联系我-------------------|
 |-----------------|------------------------|
 |💬 知乎：|[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)|
 |☁️ GitHub：|[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects)|
