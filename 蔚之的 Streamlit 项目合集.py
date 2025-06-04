@@ -14,7 +14,7 @@ st.markdown("""
 | 💰 小小记账本 | [体验](https://simple-expense-tracker-ighvertj3gb9s6ubeuj96h.streamlit.app/) | [源码](https://github.com/xuelengmei/simple-expense-tracker) | 自动统计收支和余额 |
 """, unsafe_allow_html=True)
 
-|---------------------------------------------------------------|
+
 
 st.markdown("""
 |联系我|
