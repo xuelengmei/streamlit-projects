@@ -19,13 +19,13 @@ Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
 
 ## 📬 联系我 
 
-💬 知乎：：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)
+💬 知乎：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)
 
 🎀 小红书（注册中，敬请期待）
 
-☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects))
+☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects)
 
-☁️ Streamlit Cloud[🌟 蔚之的 Streamlit 项目合集](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)
+☁️ Streamlit Cloud:[🌟 蔚之的 Streamlit 项目合集](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)
 
 
 ##🐣 一句话感言
