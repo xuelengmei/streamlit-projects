@@ -17,19 +17,19 @@ st.markdown("""
 
 st.markdown("## 📮 联系我")
 
-col1, col2 = st.columns(2)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     st.markdown("**💬 知乎**")
     st.markdown("[蔚之（编程小白版）](https://www.zhihu.com/people/your-zhihu-link)")
-
+with col2:
     st.markdown("**☁️ GitHub**")
     st.markdown("[🌟 蔚之的项目合集](https://github.com/xuelengmei/streamlit-projects)")
 
-with col2:
+with col3:
     st.markdown("**☁️ Streamlit Cloud**")
     st.markdown("[🌟蔚之的项目合集主页](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)")
-
+with col4:
     st.markdown("**🎀 小红书**")
     st.markdown("注册中，敬请期待~")
 
