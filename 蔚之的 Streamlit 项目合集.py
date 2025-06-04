@@ -24,7 +24,7 @@ with col1:
     st.markdown("[蔚之（编程小白版）](https://www.zhihu.com/people/--60-78-49-55)")
 with col2:
     st.markdown("**☁️ GitHub**")
-    st.markdown("[🌟 蔚之的项目合集](https://github.com/xuelengmei/streamlit-projects)")
+    st.markdown("[🌟 蔚之的项目合集主页](https://github.com/xuelengmei/streamlit-projects)")
 
 with col3:
     st.markdown("**☁️ Streamlit Cloud**")
