@@ -15,11 +15,21 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+st.markdown("## 📮 联系我")
 
-st.markdown("""
-|联系我|
-|💬 知乎：[蔚之（编程小白版）](https://github.com/xuelengmei/zodiac-keyword-matcher)|
-|☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects)|
-|☁️ Streamlit Cloud:[🌟 蔚之的 Streamlit 项目合集](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)|
-|🎀 小红书:（注册中，敬请期待）|
-""", unsafe_allow_html=True)
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("**💬 知乎**")
+    st.markdown("[蔚之（编程小白版）](https://www.zhihu.com/people/your-zhihu-link)")
+
+    st.markdown("**☁️ GitHub**")
+    st.markdown("[🌟 蔚之的项目合集](https://github.com/xuelengmei/streamlit-projects)")
+
+with col2:
+    st.markdown("**☁️ Streamlit Cloud**")
+    st.markdown("[🌟蔚之的项目合集主页](https://app-projects-2aks65rdn9xhklwwvirdo6.streamlit.app/)")
+
+    st.markdown("**🎀 小红书**")
+    st.markdown("注册中，敬请期待~")
+
