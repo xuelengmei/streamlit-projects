@@ -12,7 +12,7 @@
  |🧠 性格关键词匹配 |   [体验](https://zodiac-keyword-matcher-6nuauhueclxrcrhakn2yjz.streamlit.app/)	 |   [源码](https://github.com/xuelengmei/zodiac-keyword-matcher) |	  输入关键词找对应星座，看看你“像谁”
  |💰 小小记账本    |    [体验](https://simple-expense-tracker-ighvertj3gb9s6ubeuj96h.streamlit.app/)	 |  [源码](https://github.com/xuelengmei/simple-expense-tracker)  |   轻量记账本，自动统计收入支出和当前余额
 
-提醒
+st.diveider()
 
 ## 🛠 技术关键词  
 Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
