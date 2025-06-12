@@ -20,7 +20,7 @@ Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
 
 ## 📬 联系我 
 
-💬 知乎：[蔚之（编程小白版）](https://www.zhihu.com/people/--60-78-49-55))
+💬 知乎：[蔚之（编程小白版）](https://www.zhihu.com/people/--60-78-49-55)
 
 🎀 小红书（注册中，敬请期待）
 
