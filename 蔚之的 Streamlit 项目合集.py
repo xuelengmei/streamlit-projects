@@ -13,7 +13,7 @@ st.markdown("""
 | 🧠 性格关键词匹配 | [体验](https://zodiac-keyword-matcher-6nuauhueclxrcrhakn2yjz.streamlit.app/) | [源码](https://github.com/xuelengmei/zodiac-keyword-matcher) | 输入关键词找对应星座 |
 | 💰 小小记账本 | [体验](https://simple-expense-tracker-ighvertj3gb9s6ubeuj96h.streamlit.app/) | [源码](https://github.com/xuelengmei/simple-expense-tracker) | 自动统计收支和余额 |
 | ⏳ 倒计时  |  [体验](https://countdown-fzwswua3ujzkavtrxnr2oy.streamlit.app/)  |  [源码](https://github.com/xuelengmei/countdown)  |  多页面，多记录，可删除  |
-|💰 记账本v2  |  [体验](https://budget-tracker-v2-wqbngh2zn5fmtchsh5xfyw.streamlit.app/)  |  [源码](https://github.com/xuelengmei/budget-tracker-v2) | 带pages的多页面结构，注册登录系统  |
+|💰 记账本v3  |  [体验](https://budget-tracker-v2-wqbngh2zn5fmtchsh5xfyw.streamlit.app/)  |  [源码](https://github.com/xuelengmei/budget-tracker-v2) | 带pages的多页面结构，注册登录系统  |
 """, unsafe_allow_html=True)
 
 
