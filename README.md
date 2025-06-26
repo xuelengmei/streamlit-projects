@@ -23,7 +23,7 @@ Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown、SQLite
 
 💬 知乎：[蔚之-编程小白版](https://www.zhihu.com/people/--60-78-49-55)
 
-🎀 小红书[蔚之-编程小白版]（https://www.xiaohongshu.com/user/profile/62ff9b02000000001200e6ec）
+🎀 小红书：[蔚之-编程小白版](https://www.xiaohongshu.com/user/profile/62ff9b02000000001200e6ec)
 
 ☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects)
 
