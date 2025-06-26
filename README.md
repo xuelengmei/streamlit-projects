@@ -13,16 +13,17 @@
  |💰 小小记账本    |    [体验](https://simple-expense-tracker-ighvertj3gb9s6ubeuj96h.streamlit.app/)	 |  [源码](https://github.com/xuelengmei/simple-expense-tracker)  |   轻量记账本，自动统计收入支出和当前余额
  |⏳ 倒计时        |   [体验](https://countdown-fzwswua3ujzkavtrxnr2oy.streamlit.app/)  |  [源码](https://github.com/xuelengmei/countdown)  |  多页面，多记录，可删除  
  |💰 记账本v3     |    [体验](https://budget-tracker-v2-wqbngh2zn5fmtchsh5xfyw.streamlit.app/)   |   [源码](https://github.com/xuelengmei/budget-tracker-v2)   |   带pages的多页面结构，注册登录系统
+ |💰 记账本v3+    |    [体验](https://fh7bjxbreygvfkgmgksiud.streamlit.app/)  |   [源码](https://github.com/xuelengmei/budget-tracker-3-)   |   SQLite数据存储，导出excel功能
 
 ## 🛠 技术关键词  
-Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown...
+Python、Streamlit、Pandas、GitHub、Streamlit Cloud、Markdown、SQLite
 
 
 ## 📬 联系我 
 
-💬 知乎：[蔚之（编程小白版）](https://www.zhihu.com/people/--60-78-49-55)
+💬 知乎：[蔚之-编程小白版](https://www.zhihu.com/people/--60-78-49-55)
 
-🎀 小红书（注册中，敬请期待）
+🎀 小红书[蔚之-编程小白版]（https://www.xiaohongshu.com/user/profile/62ff9b02000000001200e6ec）
 
 ☁️ GitHub：[🌟 蔚之的 Streamlit 项目合集](https://github.com/xuelengmei/streamlit-projects)
 
